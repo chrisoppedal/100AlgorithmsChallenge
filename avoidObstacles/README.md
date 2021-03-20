@@ -14,6 +14,9 @@ Find the minimal length of the jump enough to avoid all the obstacles.
 For inputArray = [5, 3, 6, 7, 9], the output should be
 avoidObstacles(inputArray) = 4.
 
+// start 2 to 
+
+
 **Hints**
 -   sort()
 -   every()

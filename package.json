@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PizzaPokerGuy/100AlgorithmsChallenge.git"
+    "url": "git+https://github.com/chrisoppedal/100AlgorithmsChallenge.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PizzaPokerGuy/100AlgorithmsChallenge/issues"
+    "url": "https://github.com/chrisoppedal/100AlgorithmsChallenge/issues"
   },
-  "homepage": "https://github.com/PizzaPokerGuy/100AlgorithmsChallenge#readme",
+  "homepage": "https://github.com/chrisoppedal/100AlgorithmsChallenge#readme",
   "devDependencies": {
     "jest": "^26.6.3"
   },

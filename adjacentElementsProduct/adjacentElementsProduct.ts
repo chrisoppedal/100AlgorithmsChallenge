@@ -1,7 +1,7 @@
 export function adjacentElementsProduct(inputArray: number[]): number {
 
-    let largest;
-    for (let i = 0; i < inputArray.length - 1; i++) {
+    let largest: number;
+    for (let i: number = 0; i < inputArray.length - 1; i++) {
         if (!largest || inputArray[i] * inputArray[i + 1] > largest) {
             largest = inputArray[i] * inputArray[i + 1];
         }

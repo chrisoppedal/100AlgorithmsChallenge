@@ -1,6 +1,6 @@
 export function almostIncreasingSequence(sequence: number[]): boolean {
 
-    let decreaseCount = 0;
+    let decreaseCount: number = 0;
     sequence.reduce( (accumulator, value) => {
         if (!accumulator.length || value > accumulator[accumulator.length - 1]) {
             accumulator.push(value);

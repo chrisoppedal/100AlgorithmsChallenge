@@ -1,6 +1,3 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
-
-##### Algorithm Challenge Available At [CodeFights](https://codefights.com/arcade/code-arcade/well-of-integration/8RiRRM3yvbuAd3MNg)
 ---
 Elections are in progress!
 
